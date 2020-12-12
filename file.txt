@@ -1,1 +1,2 @@
+Using checkout
 Creating new Git Repository
